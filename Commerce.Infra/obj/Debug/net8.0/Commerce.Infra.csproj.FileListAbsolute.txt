@@ -1,0 +1,17 @@
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.csproj.AssemblyReference.cache
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.AssemblyInfoInputs.cache
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.AssemblyInfo.cs
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.csproj.CoreCompileInputs.cache
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/bin/Debug/net8.0/Commerce.Infra.deps.json
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/bin/Debug/net8.0/Commerce.Infra.runtimeconfig.json
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/bin/Debug/net8.0/Commerce.Infra.dll
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/bin/Debug/net8.0/Commerce.Infra.pdb
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/bin/Debug/net8.0/Commerce.Domain.dll
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/bin/Debug/net8.0/Commerce.Domain.pdb
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.csproj.CopyComplete
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.dll
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/refint/Commerce.Infra.dll
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.pdb
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/Commerce.Infra.genruntimeconfig.cache
+/home/losawa/Músicas/Class/FullStack/2/DDDCommerceBCC/Commerce.Infra/obj/Debug/net8.0/ref/Commerce.Infra.dll
