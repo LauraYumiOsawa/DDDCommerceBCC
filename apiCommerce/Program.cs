@@ -11,7 +11,7 @@ builder.Services.AddDbContext<AppDbContext>();
 
 builder.Services.AddScoped<IPedidoRepository, PedidoRepository>();
 builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
-
+ 
 builder.Services.AddControllers()
     .AddApplicationPart(Assembly.Load("apiCommerce"));
 
